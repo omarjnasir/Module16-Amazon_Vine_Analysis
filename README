@@ -1,1 +1,28 @@
+Module16-ReadMe
+
+Overview of Analysis:
+The purpose of this analysis is to analyze Amazon reviews written by members of the paid Amazon Vine program. The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. Companies like SellBy pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review.
+
+Some Vine Reviews are paid by Amazon and others are unpaid. One of the objectives of the study is to see, if there is bias towards a 5 star rating by the paid reviewers.
+
+Results:
+
+How many Vine Reviews were there?
+The dataset consists of over 1 million items (104,8575)
+The total ratings are 65581.
+
+How many Vine Reviews were 5 stars? 
+5 Star Rating:222
+Total Rating:613
+Percentage of 5 star:36.21
+
+How many non-vine reviews were 5 stars?
+5 Star Rating:30453
+Total Rating:64968
+Percentage of 5 Star Rating:47.0123
+What percentage of vine reviews were 5 stars? What percentage  of non-vine reviews were 5 star 
+Summary
+The non-vine reviewers rated the product higher than the vine reviewers. So the Amazon reviewers (paid) were more stingy in their rating.
+
+Another analysis to see bias can be a statistical analysis with box and whiskers plot. The median and the outliers would be different.
 
